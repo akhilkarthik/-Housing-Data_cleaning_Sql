@@ -1,2 +1,3 @@
-# -Housing-Data_cleaning_Sql
- Housing Data for Data Cleaning.
+# Housing-Data_SQL Data Cleaning 
+
+Step by step queries for efficient Data cleaning using SQL
